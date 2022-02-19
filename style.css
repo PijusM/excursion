@@ -1,0 +1,55 @@
+*{
+    font-family: Verdana;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sixteenpx{ font-size: 16px; }
+
+.fiftypx{ font-size: 50px; }
+
+.twentyonepx{ font-size: 21px; }
+
+.fortytwopx{ font-size: 42px; }
+
+.normalfont{ font-weight: normal; }
+
+.bigfont{ font-weight: 300; }
+
+.center{ display:table; margin: 0 auto;}
+
+.video{margin-top: 20px; margin-bottom: 40px;}
+
+.download{color: aquamarine}
+
+.h1{ margin: 25px auto 30px auto;}
+body{
+    background-color: black;
+}
+
+h1{
+    margin: 40px;
+    
+    color: white;
+}
+p{
+    margin-top: 35px;
+    color: gray;
+}
+img{
+    margin: 20px;
+}
+.phone{
+    margin-bottom: 35px;
+}
+.soon{
+    margin-bottom: 35px;
+}
+
+h2{ 
+    text-align: right; 
+    color: gray;
+    margin: 20px;
+}
